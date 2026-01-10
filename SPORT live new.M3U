@@ -35,10 +35,13 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://live3.fastestcdn-global.com/live3/ecc5fb6877614616b895d49d1d642db7_720/index.m3u8
 #EXTINF:0, RO BONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://rbapi.online/v1/match/live
+https://rblive.starxcdn.xyz/live/6932e0071814feae053c915c_2y8m4ptw7d54ml0_basketball_hd.flv
 https://rblive.starxcdn.xyz/live/6935b775224fb9a2d13a9792_dj2ry7tep96nr1z_basketball_hd.flv
+https://rblive.starxcdn.xyz/live/693586cc169b7d1cda3d3d9c_n54ql7tp3y8jrvy_basketball_hd.flv
+https://rblive.starxcdn.xyz/live/693586cc169b7d1cda3d3d9c_n54ql7tp3y8jrvy_basketball_hd.flv
 #EXTINF:0, HOI QUAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8
+https://tfsf3graucmt3gazdqqjqgr5dqmmrpfagacbage41h3mrc71s4amacp1gh.100ycdn.com/dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8?wsSession=1f84f71287124e5264d03d92-176801863708328&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
 #EXTINF:0, BUN CHA KDA TV
 https://live3.fastestcdn-global.com/live3/7e30d23422f34b159cfccd56153d234a_720/index.m3u8
