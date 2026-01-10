@@ -1,128 +1,199 @@
 #EXTM3U
-#EXTINF:0, SPOTV
+#EXTINF:-1 group-title="TV360",TV360 Live
+https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 group-title="LIVESPORT", Polsat Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+#EXTINF:-1 group-title="LIVESPORT", Polsat Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 group-title="LIVESPORT", Polsat Sport 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="LIVESPORT", Max Sport 1 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+#EXTINF:-1 group-title="LIVESPORT", Max Sport 2 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+#EXTINF:-1 group-title="LIVESPORT", Max Sport 4 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
+#EXTINF:-1 group-title="LIVESPORT", Canal+ Foot
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 group-title="LIVESPORT", Canal+ Sport
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 group-title="LIVESPORT", TNT Sports 1 
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
+#EXTINF:-1 group-title="LIVESPORT", TNT Sports 2 
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
+#EXTINF:-1 group-title="LIVESPORT", TNT Sports 3 
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.ts
+#EXTINF:-1 group-title="LIVESPORT", TNT Sports 4
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
+#EXTINF:-1 group-title="LIVESPORT", TNT Sports 5
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
+
+#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 2
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="UHD 4K", LIVE TENNIS 3
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="UHD 4K" tvg-id="sky-UHD 4Ks-action", Sky UHD 4Ks Action
+https://7pal.short.gy/sUHD 4Ksat
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Golf
+https://7pal.short.gy/sUHD 4Ksgf
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks FORMULA ONE
+https://7pal.short.gy/sUHD 4Ksf1
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Football
+https://7pal.short.gy/sUHD 4Ksfb
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks Premier League
+https://7pal.short.gy/sUHD 4Kspl
+#EXTINF:-1 group-title="UHD 4K", Sky UHD 4Ks News
+https://7pal.short.gy/sUHD 4Ksnw
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="UHD 4K", TNT UHD 4K 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="UHD 4K", DAZN TV
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="UHD 4K",BeiN UHD 4Ks Extra 🇺🇸 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="UHD 4K", BEIN XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UHD 4K",Goal TV 
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
+#EXTINF:-1 group-title="UHD 4K", Billiards+ 
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="UHD 4K", Kozoom TV 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934f…453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 
+#EXTINF:-1 group-title="UHD 4K", Tennis Channel 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="UHD 4K", ACE TV 
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="UHD 4K", TENNIS + 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="UHD 4K",UHD 4KS TV 🇹🇷 
+http://live.UHD 4Kstv.com.tr/hls/low/UHD 4Kstv_fhd/index.m3u8 
+#EXTINF:-1 group-title="UHD 4K",INFOUHD 4K 🇫🇷 
+http://212.102.60.80/InfoUHD 4K/index.m3u8 
+#EXTINF:-1 group-title="UHD 4K",TELETRAK 🇨🇱 
+http://unlimited6-cl.dps.live/UHD 4Kinghd/UHD 4Kinghd.smil/playlist.m3u8 
+#EXTINF:-1 group-title="UHD 4K",Sony Ten 1 HD 🇮🇳 
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
+#EXTINF:-1 group-title="UHD 4K",RTA UHD 4Ks HD Ban Vs AFG 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
+#EXTINF:-1 group-title="UHD 4K",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="UHD 4K", UFC LIVE
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="UHD 4K", MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 group-title="UHD 4K", FIGHTING
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
+#EXTINF:-1 group-title="UHD 4K", FITE 247
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 group-title="UHD 4K", COMBAT
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 group-title="UHD 4K", IMPACT Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="UHD 4K", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="UHD 4K", Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 group-title="UHD 4K", Stadium
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
+#EXTINF:-1 group-title="UHD 4K", PFL MMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+#EXTINF:-1 group-title="UHD 4K", GLORY
+https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
+#EXTINF:-1 group-title="UHD 4K", TNA Wrestling Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
+#EXTINF:-1 group-title="UHD 4K", UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="UHD 4K", United Fight Alliance
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="UHD 4K", MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
+#EXTINF:-1 group-title="ARABIA SPORT", SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:0, SPOTV2
+#EXTINF:-1 group-title="ARABIA SPORT", SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:0, FIGHT SPORTS
+#EXTINF:-1 group-title="ARABIA SPORT", DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIA SPORT", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ARABIA SPORT", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ARABIA SPORT", Sky Sport F1
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
+#EXTINF:-1 group-title="ARABIA SPORT", Sky Sport Mix
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
+#EXTINF:-1 group-title="ARABIA SPORT", Sky Sport Tennis
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+
+#EXTINF:-1 group-title="SPORT",ArenaSport 1
+http://195.26.87.150/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT",eleven
+http://195.26.87.150/eleven/index.m3u8
+#EXTINF:-1 group-title="SPORT",NovaSport 1
+http://195.26.87.150/NovaSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT",Eurosport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT",Eurosport2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT", FIGHT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:0, DUBAI SPORTS 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:0, DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0, DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0,STRONGMAN CHAMPIONS LEAGUE
+#EXTINF:-1 group-title="SPORT",STRONGMAN CHAMPIONS LEAGUE
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:0,SPORTS TV
+#EXTINF:-1 group-title="SPORT", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ArenaSport 1
-http://195.26.87.150/ArenaSport1/index.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",eleven
-http://195.26.87.150/eleven/index.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",NovaSport 1
-http://195.26.87.150/NovaSport1/index.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Eurosport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Eurosport2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
-
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
-http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
-http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
-http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/tntsport5.png",TNT Sports 5 4Mbps for 4G
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 1
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 2
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 3
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 4
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 4
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 5
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 5
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 6
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 6
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 7
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 7
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 8
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 8
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 9
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 9
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 10
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 10
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 11
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 11
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-12.png", CANAL+ LIVE 12
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 12
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-13.png", CANAL+ LIVE 13
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 13
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-14.png", CANAL+ LIVE 14
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 14
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-15.png", CANAL+ LIVE 15
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 15
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-16.png", CANAL+ LIVE 16
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 16
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-17.png", CANAL+ LIVE 17
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 17
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-18.png", CANAL+ LIVE 18
+#EXTINF:-1 group-title="CANAL+", CANAL+ LIVE 18
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
-
-#EXTINF:0, KHAN DAI A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://live3.fastestcdn-global.com/live3/ecc5fb6877614616b895d49d1d642db7_720/index.m3u8
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
-https://tfsf0grauqmtofaauomtw8yszy4uxphad1ctif31se35fpiozoa5rpazg6hu8.100ycdn.com/pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8?wsSession=26899405b04bea80a84e165a-176801969705343&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
-
-#EXTINF:0, RO BONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://rblive.starxcdn.xyz/live/6932e0071814feae053c915c_2y8m4ptw7d54ml0_basketball_hd.flv
-https://rblive.starxcdn.xyz/live/6935b775224fb9a2d13a9792_dj2ry7tep96nr1z_basketball_hd.flv
-https://rblive.starxcdn.xyz/live/693586cc169b7d1cda3d3d9c_n54ql7tp3y8jrvy_basketball_hd.flv
-https://rblive.starxcdn.xyz/live/693586cc169b7d1cda3d3d9c_n54ql7tp3y8jrvy_basketball_hd.flv
-#EXTINF:0, HOI QUAN TV
-#EXTVLCOPT:http-origin=https://sv2.hoiquan.live
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb…KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8
-https://tfsf3graucmt3gazdqqjqgr5dqmmrpfagacbage41h3mrc71s4amacp1gh.100ycdn.com/dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8?wsSession=1f84f71287124e5264d03d92-176801863708328&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-group-title="BÓNG CHUYỀN", HOA DAOTV
-#EXTVLCOPT:http-origin=https://hoadaotv.org
-#EXTVLCOPT:http-referrer=https://hoadaotv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb…KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8
-https://tfsf0grauqmtofaauomtugoszy4uxphad1ctif31se35fpiozoa5rpazg6hu8.100ycdn.com/pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8?wsSession=31954d7dfca8dbd920dcfe96-176803167999190&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
-https://tfsf0grauqmtofaauomtugoszy4uxphad1ctif31se35fpiozoa5rpazg6hu8.100ycdn.com/pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8?wsSession=31954d7dfca8dbd920dcfe96-176803167999190&wsIPSercert=2214c038cf08eb75dcda982bfe8d83a7&wsiphost=local&wsBindIP=1
