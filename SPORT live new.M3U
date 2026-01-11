@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM",TV360 Live
 https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM",TV360 Live
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV CHAN SENA 
-https://live.inplyr.com/room/515530.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV HENDRY
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV HUNTER
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde739c49aeaa1993c3158a2b3940e8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BRIAN
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV YẾN THANH
@@ -39,6 +30,7 @@ https://live.sladdogg.com/OBS/07/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", HTV THỂ THAO 
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="BASKETBALL",SPORTV2
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
 http://216.230.233.25/m3u8/sportv2.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA
 #EXT-X-VERSION:3
@@ -54,16 +46,17 @@ http://45.93.9.150/sportv/tracks-v1a1/mono.m3u8
 ##http://premiumiptvmk.com:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1483.ts
 ##xdbt7BgLik107433
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68989&extension=m3u8&play_token=msUKooUfNl
+https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 group-title="BASKETBALL",SPORTV
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186540&extension=m3u8
-##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=814501&extension=m3u8
-##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=282052&extension=m3u8
-##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683089&extension=m3u8&play_token=xdbt7BgLik
-##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=11374&extension=m3u8&play_token=msUKooUfNl
-##http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/11374.m3u8
-TENNIS
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=814501&extension=m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=282052&extension=m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683089&extension=m3u8&play_token=xdbt7BgLik
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=11374&extension=m3u8&play_token=msUKooUfNl
+http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/11374.m3u8
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", Sky Sport Tennis
@@ -193,4 +186,4 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 group-title="SKY", Billiards+ 
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="SKY",Sony Ten 1 HD 🇮🇳 
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
